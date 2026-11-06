@@ -1,0 +1,24 @@
+[project]
+name = "aai-food-okf"
+version = "0.1.0"
+description = "Aai-Food Delivery x Open Knowledge Format (OKF) demo"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2",
+    "sqlalchemy>=2.0",
+    "psycopg2-binary>=2.9",
+    "python-dotenv>=1.0",
+    "python-frontmatter>=1.1",
+    "pyyaml>=6.0",
+    "groq>=0.30",
+    "networkx>=3.3",
+    "matplotlib>=3.9",
+    "tabulate>=0.9",
+    "ipykernel>=6.29",
+    "jinja2>=3.1",
+    "markdown>=3.6",
+]
+
+[tool.uv]
+package = false

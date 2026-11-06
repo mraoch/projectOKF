@@ -1,0 +1,19 @@
+restaurant_id,restaurant_name,cuisine,city,area,rating,avg_prep_time_min,is_active,joined_on
+R001,Shree Krishna Vada Pav,Street Food,Pune,Kothrud,4.4,10,true,2024-02-11
+R002,Biryani Darbar,Biryani,Pune,Koregaon Park,4.5,22,true,2023-08-19
+R003,Puneri Misal House,Maharashtrian,Pune,Shivajinagar,4.6,14,true,2024-05-02
+R004,Green Bowl Salads,Healthy,Pune,Baner,4.2,12,true,2025-01-15
+R005,Dragon Wok,Chinese,Pune,Viman Nagar,4.0,18,true,2024-11-23
+R006,Pizza Point,Pizza,Pune,Hinjewadi,3.9,20,true,2025-03-08
+R007,Annapurna Thali,North Indian,Pune,Aundh,4.3,25,true,2023-12-01
+R008,Coastal Curry Co.,Seafood,Mumbai,Bandra,4.5,24,true,2023-06-14
+R009,Bombay Chaat Corner,Street Food,Mumbai,Dadar,4.3,9,true,2024-01-20
+R010,Tandoori Nights,North Indian,Mumbai,Andheri,4.1,23,true,2024-07-09
+R011,Sushi Station,Japanese,Mumbai,Lower Parel,4.4,21,true,2025-02-27
+R012,Irani Chai Cafe,Cafe,Mumbai,Colaba,4.6,8,true,2023-04-30
+R013,Burger Barn,Burgers,Mumbai,Powai,3.8,15,false,2024-09-12
+R014,Udupi Tiffin Centre,South Indian,Bengaluru,Jayanagar,4.7,11,true,2023-03-18
+R015,Andhra Spice,Andhra,Bengaluru,Koramangala,4.4,19,true,2024-04-05
+R016,Meghana Style Biryani,Biryani,Bengaluru,Indiranagar,4.5,22,true,2023-10-10
+R017,Bowl of Pho,Asian,Bengaluru,HSR Layout,4.0,17,true,2025-05-21
+R018,Brew & Bake,Cafe,Bengaluru,Whitefield,4.2,10,true,2024-12-03
